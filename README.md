@@ -4,13 +4,13 @@ C++ study repo. Learn from cherno in Youtube. The course arrangement is relative
 C++ 学习仓库，包括YouTube博主cherno课程的笔记以及全部代码。课程的知识点安排较为随机， 请参考目录以获取对应内容。括号里的数字表示对应的视频序号。如有需要中文版本请留言或者create an issue. 欢迎交流与讨论，如有帮助请给我一个star，谢谢！
 
 # Content
-## Chapter 01 Toolchain & Compilation Model
+## Chapter 01 Toolchain & Compilation
 1. [Installation on Mac(3)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/01%20Installation%20%26%20Working%20Principle.md#installation-on-mac)
 2. [How C++ Works(5)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/01%20Installation%20%26%20Working%20Principle.md#how-c-works)
 3. [How C++ Compiler Works(6)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/01%20Installation%20%26%20Working%20Principle.md#how-c-compiler-works)
 4. [How C++ linker Works(7)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/01%20Installation%20%26%20Working%20Principle.md#how-c-linker-works)
 
-## Chapter 02 Language Basics & Control Flow
+## Chapter 02 Language Basics
 1. [Variable(8)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/02%20Basic%20Syntax.md#variable)
 2. [Function(9)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/02%20Basic%20Syntax.md#function)
 3. [Head File(10)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/02%20Basic%20Syntax.md#head-file)
@@ -21,7 +21,7 @@ C++ 学习仓库，包括YouTube博主cherno课程的笔记以及全部代码。
 8. [Pointer(16)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/02%20Basic%20Syntax.md#pointer)
 9. [Reference(17)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/02%20Basic%20Syntax.md#reference)
 
-## Chapter 03 Classes & Object-Oriented Foundations
+## Chapter 03 Classes
 1. [Class(18)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/03%20Class.md#class)
 2. [Comparison of Class and Struct(19)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/03%20Class.md#comparison-of-class-and-struct)
 3. [How to Write a C++ Class(20)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/03%20Class.md#how-to-write-a-c-class)
@@ -36,14 +36,14 @@ C++ 学习仓库，包括YouTube博主cherno课程的笔记以及全部代码。
 12. [Pure Virtual Function(Interface)(29)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/03%20Class.md#pure-virtual-functioninterface)
 13. [Visibility(30)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/03%20Class.md#visibility)
 
-## Chapter 04 Core Types & Language Qualifiers
+## Chapter 04 Core Types
 1. [Array(31)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/04%20Array,%20string,%20const%20&%20mutable.md#array)
 2. [String(32)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/04%20Array,%20string,%20const%20&%20mutable.md#string)
 3. [String Literal(33)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/04%20Array,%20string,%20const%20&%20mutable.md#string-literal)
 4. [Const(34)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/04%20Array,%20string,%20const%20&%20mutable.md#const)
 5. [Mutable(35)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/04%20Array,%20string,%20const%20&%20mutable.md#mutable)
 
-## Chapter 05 Object Construction & Operator Semantics
+## Chapter 05 Object Construction
 1. [Constructor Member Initialiser List(36)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/05%20Constructor,%20Ternary%20operator,%20new,%20implicit%20conversion,%20operator%20overloading,%20this.md#constructor-member-initialiser-list)
 2. [Ternary Operator(37)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/05%20Constructor,%20Ternary%20operator,%20new,%20implicit%20conversion,%20operator%20overloading,%20this.md#constructor-member-initialiser-list)
 3. [Create and Initialise Object(38)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/05%20Constructor,%20Ternary%20operator,%20new,%20implicit%20conversion,%20operator%20overloading,%20this.md#constructor-member-initialiser-list)
@@ -52,7 +52,7 @@ C++ 学习仓库，包括YouTube博主cherno课程的笔记以及全部代码。
 6. [Operator and Operator Overloading(41)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/05%20Constructor,%20Ternary%20operator,%20new,%20implicit%20conversion,%20operator%20overloading,%20this.md#operator-and-operator-overloading)
 7. [this(keyword)(42)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/05%20Constructor,%20Ternary%20operator,%20new,%20implicit%20conversion,%20operator%20overloading,%20this.md#this-keyword)
 
-## Chapter 06 Object Lifetime & Resource Management
+## Chapter 06 Resource Management
 1. [Object Lifetime(43)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/06%20Object%20lifetime.md#object-lifetime)  
 2. [Smart Pointer(44)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/06%20Object%20lifetime.md#smart-pointer)  
 3. [Copy and Copy Constructor(45)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/06%20Object%20lifetime.md#copy-and-copy-constructor)  
@@ -63,14 +63,14 @@ C++ 学习仓库，包括YouTube博主cherno课程的笔记以及全部代码。
 8. [Dynamic Linkage(50)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/06%20Object%20lifetime.md#dynamic-linkage)  
 9. [Create and Use Libraries(51)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/06%20Object%20lifetime.md#create-and-use-libraries)  
 
-## Chapter 07 Abstraction & Compile-Time Techniques
+## Chapter 07 Compile-Time Techniques
 1. [How to Deal with Multiple Return Types(52)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/07.md#how-to-deal-with-multiple-return-types)  
 2. [Templates(53)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/07.md#templates)  
 3. [Stack VS Heap(54)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/07.md#stack-vs-heap)  
 4. [Macros(55)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/07.md#macros)  
 5. [auto(keyword)(56)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/07.md#autokeyword)  
 
-## Chapter 08 Functional, Low-Level & Concurrency Features
+## Chapter 08 Functional Features
 1. [Static Array(57)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/08.md#static-array)  
 2. [Function Pointer(58)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/08.md#function-pointer)
 3. [Lambda(59)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/08.md#lambda)  
@@ -83,7 +83,7 @@ C++ 学习仓库，包括YouTube博主cherno课程的笔记以及全部代码。
 10. [Type Punning(66)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/08.md#type-punning)
 11. [union(keyword)(67)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/08.md#type-punning)
 
-## Chapter 09 Polymorphism, Casting & Modern C++
+## Chapter 09 Modern C++
 1. [Virtual Destructor(68)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/09.md#virtual-destructor)
 2. [Casting(69)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/09.md#casting)
 3. [Break Points(70)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/09.md#break-points)
@@ -95,14 +95,14 @@ C++ 学习仓库，包括YouTube博主cherno课程的笔记以及全部代码。
 9. [Store Multiple Data in A Single Variable(C++ 17)(77)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/09.md#store-multiple-data-in-a-single-variablec-17)
 10. [How to Store Any Type of data(78)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/09.md#how-to-store-any-type-of-data)
 
-## Chapter 10 Performance Optimization & Design Patterns
+## Chapter 10 Performance Optimization
 1. [Improve C++ Performance(79)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/10.md#improve-c-performance)
 2. [How to Make String Faster(80)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/10.md#how-to-make-string-faster)
 3. [Visualisation of Bench Marking(81)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/10.md#visualisation-of-bench-marking)
 4. [Singleton(82)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/10.md#singleton)
 5. [Small String Optimization(SSO)(83)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/10.md#small-string-optimizationsso)
 
-## Chapter 11 Memory, Semantics & Engineering Practices
+## Chapter 11 Memory & Semantics
 1. [Tracking Memory Allocation(84)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/11.md#tracking-memory-allocation)
 2. [Lvalues and Rvalues(85)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/11.md#lvalues-and-rvalues)
 3. [Continous Integration(86)](https://github.com/jjjllxx/cpp-fundamentals/blob/main/11.md#continous-integration)
